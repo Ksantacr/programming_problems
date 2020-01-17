@@ -9,7 +9,6 @@ namespace ProgrammingProblems
     {
         public int[,] array { get; set; }
         int[] directions = new int[] { 1, 0, 0, 0 };
-
         public int rows { get; set; }
         public int columns { get; set; }
         public List<int> elements { get; set; }
